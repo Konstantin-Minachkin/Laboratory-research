@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-26T07:37:33.533Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0" etag="b5PWZr6DwchmGLKZBS5F" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-26T07:38:30.762Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0" etag="kmc4N6Uv4Qs2uu9DvpYx" version="12.4.3" type="github" pages="1">
   <diagram id="6cf162a6-2888-9283-f054-19a911f1ef7f" name="Page-1">
     <mxGraphModel dx="6147" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2463,7 +2463,7 @@
         <mxCell id="hgLxxgyJrnO1GO2pbWo_-20" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-4570" y="100" as="sourcePoint"/>
-            <mxPoint x="-3610" y="100" as="targetPoint"/>
+            <mxPoint x="-3530" y="100" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hgLxxgyJrnO1GO2pbWo_-21" value="Одно из" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -2644,6 +2644,14 @@
             <mxPoint x="-4210" y="220.0000000000001" as="sourcePoint"/>
             <mxPoint x="-4690" y="280" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hgLxxgyJrnO1GO2pbWo_-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" target="hgLxxgyJrnO1GO2pbWo_-109" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3585.81" y="190.5" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgLxxgyJrnO1GO2pbWo_-109" value="PasswordBox.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3645.81" y="231" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
